@@ -1,0 +1,7 @@
+build/
+cheb.c
+cheb.html
+cheb.so
+*.pic
+profiles/*.pic
+
